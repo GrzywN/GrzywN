@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning to make professional, coded websites using HTML/CSS and vanilla Javascript.
 
-- 📄 My projects:
+<!-- - 📄 My projects:
   - Pasja - Fully responsive hairdresser's website for local business (HTML, CSS, JS, BEM-ish methodology, Flexbox)
-
+ -->
 - 📫 To contact me, you can use my discord: fansik#2808
 
 <!---
