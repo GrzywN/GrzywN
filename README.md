@@ -1,6 +1,6 @@
 # Hi there, I’m **Karol** 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=grzywn&show_icons=true&theme=gradient&hide=issues,contribs" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grzywn&layout=compact&langs_count=4" />
+<img src="https://github-readme-stats.vercel.app/api?username=grzywn&show_icons=true&theme=gradient&hide=issues,contribs" /><img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grzywn&layout=compact&langs_count=4" />
 
 
 
