@@ -1,8 +1,8 @@
 # Hi there, I’m **Karol** 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=grzywn&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grzywn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in programming and coding.
   I used to make automation scripts in autohothey and than I started to learn C++ and HTML/CSS. In the same time I was learning JavaScript.
