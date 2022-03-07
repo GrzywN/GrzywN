@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Karol</h1>
 <h2>I'm working my way up to become great self-taught front-end developer.</h2>
 
-- 🔭 I’m currently working on [GitHub search app from FrontendMentor.io](https://github.com/GrzywN/github-user-search-app)
+- 🔭 I’m currently working on [GitHub user search app from FrontendMentor.io](https://github.com/GrzywN/github-user-search-app)
 
 - 🌱 I’m currently learning **more complex SASS features / ES6 JavaScript**
 
