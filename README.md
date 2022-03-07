@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">I'm working my way up to become great self-taught front-end developer.</h3>
+<h1>Hi 👋, I'm Karol</h1>
+<h2>I'm working my way up to become great self-taught front-end developer.</h2>
 
 - 🔭 I’m currently working on [GitHub search app from FrontendMentor.io](https://github.com/GrzywN/github-user-search-app)
 
