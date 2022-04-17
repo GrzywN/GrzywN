@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tip calculator app from FrontendMentor.io](https://github.com/GrzywN/tip-calculator-app-main)
 
-- 🌱 I’m currently learning **more complex SASS features / ES6 JavaScript**
+- 🌱 I’m currently learning **ES6 JavaScript / writing clean code**
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
 
