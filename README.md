@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Karol</h1>
 <h2>I'm working my way up to become great self-taught front-end developer.</h2>
 
-- 🔭 I’m currently working on [Tip calculator app from FrontendMentor.io](https://github.com/GrzywN/tip-calculator-app-main)
+- 🔭 I’m currently working on [Art gallery website from FrontendMentor.io](https://github.com/GrzywN/art-gallery-website)
 
 - 🌱 I’m currently learning **ES6 JavaScript, writing clean code and git**
 
