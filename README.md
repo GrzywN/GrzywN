@@ -20,14 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/https://codepen.io/grzywn" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="https://codepen.io/grzywn"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://twitter.com/grzywn" target="blank"
     ><img
       align="center"
@@ -51,6 +43,14 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="karolbinkowski3"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://codepen.io/https://codepen.io/grzywn" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+      alt="https://codepen.io/grzywn"
       height="30"
       width="40"
   /></a>
