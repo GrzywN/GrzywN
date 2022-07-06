@@ -13,6 +13,11 @@
 
 - ⚡ Fun fact **when I saw a `return isValid ? true : false` statement in my code I went through a mental breakdown lmao**
 
+- 🧾 Certificates:
+  - [Responsive Web Design](https://www.freecodecamp.org/certification/GrzywN/responsive-web-design)
+  - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures)
+  - [Clean Code](https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/https://codepen.io/grzywn" target="blank"
