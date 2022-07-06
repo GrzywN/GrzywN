@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karolbinkowski3@proton.me**
 
-- ⚡ Fun fact **isItFunny ? true : true**
+- ⚡ Fun fact **when I saw a `return isValid ? true : false` statement in my code I went through a mental breakdown lmao**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
