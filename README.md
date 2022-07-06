@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center"
-  >Junior Front-end developer 🖥️ Currently learning: advanced JavaScript, React and TDD ✌️ On the
-  way to get my first tech job 🤞</h3
->
+<h3 align="center">Junior Front-end developer 🖥️ Currently learning: advanced JavaScript, React and TDD ✌️ On the way to get my first tech job 🤞</h3>
 
-- 🔭 I’m currently working on [Youtube Downloader](https://github.com/GrzywN/Youtube-Downloader/) -
-🌱 I’m currently learning **advanced JavaScript, React and TDD** - 👨‍💻 All of my projects are
-available at
-[https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN) - 💬
-Ask me about **SCSS, GSAP, JS** - 📫 How to reach me **karolbinkowski3@proton.me** - ⚡ Fun fact
-**isItFunny ? true : true**
+- 🔭 I’m currently working on [Youtube Downloader](https://github.com/GrzywN/Youtube-Downloader/)
+
+- 🌱 I’m currently learning **advanced JavaScript, React and TDD**
+
+- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
+
+- 💬 Ask me about **SCSS, GSAP, JS**
+
+- 📫 How to reach me **karolbinkowski3@proton.me**
+
+- ⚡ Fun fact **isItFunny ? true : true**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
