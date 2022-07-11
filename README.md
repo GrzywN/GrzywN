@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karolbinkowski3@proton.me**
 
-- ⚡ Fun fact **when I saw a `return isValid ? true : false` statement in my code I went through a mental breakdown lmao**
+- ⚡ Fun fact **I love to eat syntactic sugar**
 
 - 🧾 Certificates:
   - [Responsive Web Design](https://www.freecodecamp.org/certification/GrzywN/responsive-web-design)
