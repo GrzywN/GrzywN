@@ -29,7 +29,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/karol-binkowski-113a13211/"
+    href="https://www.linkedin.com/in/karol-binkowski-113a13211/"
     target="blank"
     ><img
       align="center"
