@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">Junior Front-end developer 🖥️ On my way to land my first tech job 🤞</h3>
 
-- 🔭 I’m currently working on [Youtube Downloader](https://github.com/GrzywN/Youtube-Downloader/)
+- 🔭 I’m currently working on [Phonic - Mulitsource audio player with built-in downloader](https://github.com/GrzywN/Phonic)
 
-- 🌱 I’m currently learning **advanced JavaScript, React and TDD ✌️**
+- 🌱 I’m currently learning **React, Next.js, Redux and TDD ✌️**
 
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
-
-- 💬 Ask me about **SCSS, GSAP, JS**
+- 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
 
 - 📫 How to reach me **karolbinkowski3@proton.me**
 
