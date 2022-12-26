@@ -210,6 +210,3 @@
     src="https://github-readme-stats.vercel.app/api?username=grzywn&show_icons=true&theme=tokyonight&locale=en"
     alt="grzywn"
 /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="karol-binkowski-113a13211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/karol-binkowski-113a13211?trk=profile-badge">Karol Binkowski</a></div>
-              
