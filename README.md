@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Phonic - Mulitsource audio player with built-in downloader](https://github.com/GrzywN/Phonic)
 
-- 🌱 I’m currently learning **React, Next.js, Redux and TDD ✌️**
+- 🌱 I’m currently learning **Next.js, Nx workspaces, TDD ✌️**
 
 - 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
 
@@ -15,6 +15,7 @@
   - [Responsive Web Design](https://www.freecodecamp.org/certification/GrzywN/responsive-web-design)
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures)
   - [Clean Code](https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/)
+  - [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
