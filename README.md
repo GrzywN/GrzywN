@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">Junior Front-end developer 🖥️ On my way to land my first tech job 🤞</h3>
 
-- 🔭 I’m currently working on [Phonic - Mulitsource audio player with built-in downloader](https://github.com/GrzywN/Phonic)
+- 🔭 I’m currently working on [Karbin - My new personal website which is a digital garden.](https://github.com/GrzywN/karbin)
 
-- 🌱 I’m currently learning **Next.js, Nx workspaces, TDD ✌️**
+- 🌱 I’m currently learning **Next.js, Nx, Vim ✌️**
 
 - 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
 
