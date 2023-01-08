@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **karolbinkowski3@proton.me**
 
-- ⚡ Fun fact **I love to eat syntactic sugar**
-
 - 🧾 Certificates:
   - [Responsive Web Design](https://www.freecodecamp.org/certification/GrzywN/responsive-web-design)
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures)
