@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">Junior Front-end developer 🖥️ On my way to land my first tech job 🤞</h3>
 
-- 🔭 I’m currently working on [Karbin - My new personal website which is a digital garden.](https://github.com/GrzywN/karbin)
+- 🔭 I’m currently working on [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 
 - 🌱 I’m currently learning **Next.js, Nx, Vim ✌️**
 
