@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 
-- 🌱 I’m currently learning **Next.js, Nx, Vim ✌️ and cracking some leetcode Algo and DS**
+- 🌱 I’m currently learning **Next.js, Nx, Vim ✌️**
+
+- **and cracking some leetcode Algo and DS**
 
 - 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
 
