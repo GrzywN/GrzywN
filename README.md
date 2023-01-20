@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Nx, Vim ✌️**
 
-- **and cracking some leetcode Algo and DS**
+- **and struggling with some of the leetcode problems**
 
 - 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
 
