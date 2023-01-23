@@ -9,26 +9,26 @@
 
 😵‍💫 I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode).**
 
-<!-- - 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN) -->
-
 📫 How to reach me **karolbinkowski3@proton.me**
 
-My best projects:
+**My best projects**:
   - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
   - [BOR-KUR.pl - A website for the BOR-KUR chicken farm business.](https://github.com/GrzywN/bor-kur)
   - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
   - [Personal portfolio (legacy) - A personal CMS based website with a dark mode, i18n and blog.](https://github.com/GrzywN/personal-portfolio)
 
 <details>
-  <summary>🧾 Certificates:</summary>
-  - [Responsive Web Design](https://www.freecodecamp.org/certification/GrzywN/responsive-web-design)
-  - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures)
-  - [Clean Code](https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/)
-  - [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd/)
+  <summary>🧾 <b>Certificates:</b></summary>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/certification/GrzywN/responsive-web-design" target="_blank" rel="noopener noreferrer">Responsive Web Design</a></li>
+    <li><a href="https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/" target="_blank" rel="noopener noreferrer">Clean Code</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd" target="_blank" rel="noopener noreferrer">JavaScript Unit Testing - The Practical Guide</a></li>
+  <ul>
 </details>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+    
+<h3>Connect with me:</h3>
+<p>
   <a href="https://twitter.com/grzywn" target="blank"
     ><img
       align="center"
@@ -39,7 +39,8 @@ My best projects:
   /></a>
   <a
     href="https://www.linkedin.com/in/karol-binkowski-113a13211/"
-    target="blank"
+    target="_blank"
+     
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
