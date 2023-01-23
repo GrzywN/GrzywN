@@ -1,8 +1,8 @@
-<p size="large">
+<h3>
 Hello 👋 I&apos;m a Junior Front-end developer strongly <br />
 focused on
-<strong> React/React Native</strong> apps development.
-</p>
+<strong> React</strong> apps development.
+</h3>
 
 - 🔭 I’m currently working on [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 
@@ -10,7 +10,7 @@ focused on
 
 - 😵‍💫 I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode).**
 
-- 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN)
+<!-- - 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN) -->
 
 - 📫 How to reach me **karolbinkowski3@proton.me**
 
