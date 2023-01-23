@@ -11,7 +11,7 @@
 
 📫 How to reach me **karolbinkowski3@proton.me**
 
-**My best projects**:
+**Featured projects**:
   - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
   - [BOR-KUR.pl - A website for the BOR-KUR chicken farm business.](https://github.com/GrzywN/bor-kur)
   - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
