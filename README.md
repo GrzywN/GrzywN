@@ -4,17 +4,17 @@ focused on
 <strong> React</strong> apps development.
 </h3>
 
-- 🔭 I’m currently working on [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
+🔭 I’m currently working on [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 
-- 🌱 I’m currently learning **Next.js, Nx, Vim ✌️**
+🌱 I’m currently learning **Next.js, Nx, Vim ✌️**
 
-- 😵‍💫 I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode).**
+😵‍💫 I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode).**
 
 <!-- - 👨‍💻 Most of my projects is available at [https://www.frontendmentor.io/profile/GrzywN](https://www.frontendmentor.io/profile/GrzywN) -->
 
-- 📫 How to reach me **karolbinkowski3@proton.me**
+📫 How to reach me **karolbinkowski3@proton.me**
 
-- 🧾 Certificates:
+🧾 Certificates:
   - [Responsive Web Design](https://www.freecodecamp.org/certification/GrzywN/responsive-web-design)
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures)
   - [Clean Code](https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/)
