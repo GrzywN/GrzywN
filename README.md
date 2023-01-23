@@ -1,4 +1,4 @@
-<p>
+<p size="large">
 Hello 👋 I&apos;m a Junior Front-end developer strongly <br />
 focused on
 <strong> React/React Native</strong> apps development.
