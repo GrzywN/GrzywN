@@ -13,11 +13,19 @@
 
 📫 How to reach me **karolbinkowski3@proton.me**
 
-🧾 Certificates:
+My best projects:
+  - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
+  - [BOR-KUR.pl - A website for the BOR-KUR chicken farm business.](https://github.com/GrzywN/bor-kur)
+  - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
+  - [Personal portfolio (legacy) - A personal CMS based website with a dark mode, i18n and blog.](https://github.com/GrzywN/personal-portfolio)
+
+<details>
+  <summary>🧾 Certificates:</summary>
   - [Responsive Web Design](https://www.freecodecamp.org/certification/GrzywN/responsive-web-design)
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures)
   - [Clean Code](https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/)
   - [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd/)
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
