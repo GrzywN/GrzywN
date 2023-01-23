@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">Junior Front-end developer 🖥️ On my way to land my first tech job 🤞</h3>
+<h3 align="center">Junior Front-end developer 🖥️</h3>
 
 - 🔭 I’m currently working on [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 
