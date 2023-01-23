@@ -20,7 +20,7 @@
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
   <ul>
-    <li><a href="https://www.freecodecamp.org/certification/GrzywN/responsive-web-design" target="_blank" rel="noopener noreferrer">Responsive Web Design</a></li>
+    <li><a href="https://www.freecodecamp.org/certification/GrzywN/responsive-web-design" target="blank">Responsive Web Design</a></li>
     <li><a href="https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a></li>
     <li><a href="https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/" target="_blank" rel="noopener noreferrer">Clean Code</a></li>
     <li><a href="https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd" target="_blank" rel="noopener noreferrer">JavaScript Unit Testing - The Practical Guide</a></li>
