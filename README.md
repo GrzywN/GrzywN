@@ -37,6 +37,7 @@
 
 <h3>Connect with me:</h3>
 <p>
+  I don't use social media anymore.
   <a href="https://twitter.com/grzywn">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -53,6 +54,7 @@
       width="40"
     />
   </a>
+  {/*
   <a href="https://instagram.com/karolbinkowski3">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -61,6 +63,7 @@
       width="40"
     />
   </a>
+  */}
   <a href="https://codepen.io/https://codepen.io/grzywn">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
