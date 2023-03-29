@@ -63,14 +63,14 @@
     />
   </a> -->
   
-  <a href="https://codepen.io/grzywn">
+<!--   <a href="https://codepen.io/grzywn">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
       alt="https://codepen.io/grzywn"
       height="30"
       width="40"
     />
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/grzywn">
     <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
