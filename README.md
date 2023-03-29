@@ -21,6 +21,9 @@
   <summary>🧾 <b>Certificates:</b></summary>
   <ul>
     <li>
+      <a href="https://www.hackerrank.com/certificates/c06bafa10847">JavaScript (Basic) Certificate</a>
+    </li>
+    <li>
       <a href="https://www.freecodecamp.org/certification/GrzywN/responsive-web-design">Responsive Web Design</a>
     </li>
     <li>
