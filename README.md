@@ -21,6 +21,7 @@
   <summary>🧾 <b>Certificates:</b></summary>
   <table>
     <tr>
+    <td>
       <details>
     <summary><b>Hackerrank</b></summary>
     <ul>
@@ -32,8 +33,8 @@
       </li>
     </ul>
   </details>
-    </tr>
-    <tr>
+    </td>
+    <td>
       <details>
     <summary><b>freeCodeCamp</b></summary>
     <ul>
@@ -45,8 +46,8 @@
       </li>
     </ul>
   </details>
-    </tr>
-    <tr>
+    </td>
+    <td>
       <details>
     <summary><b>Udemy</b></summary>
     <ul>
@@ -58,6 +59,7 @@
       </li>
     </ul>
   </details>
+    </td>
     </tr>
   </table>
 </details>
