@@ -17,6 +17,12 @@
   - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
 <!--   - [Personal portfolio (legacy) - A personal CMS based website with a dark mode, i18n and blog.](https://github.com/GrzywN/personal-portfolio) -->
 
+| **HackerRank** | **freeCodeCamp** | **Udemy** |
+|----------------|------------------|-----------|
+| [https://www.hackerrank.com/certificates/3f5a3d52e607](SQL (Basic) Certificate)|                  |           |
+|                |                  |           |
+|                |                  |           |
+
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
   <table>
