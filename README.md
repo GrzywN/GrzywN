@@ -19,26 +19,39 @@
 
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
-  <ul>
-    <li>
-      <a href="https://www.hackerrank.com/certificates/3f5a3d52e607">HackerRank's SQL (Basic) Certificate</a>
-    </li>
-    <li>
-      <a href="https://www.hackerrank.com/certificates/c06bafa10847">HackerRank's JavaScript (Basic) Certificate</a>
-    </li>
-    <li>
-      <a href="https://www.freecodecamp.org/certification/GrzywN/responsive-web-design">Responsive Web Design</a>
-    </li>
-    <li>
-      <a href="https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
-    </li>
-    <li>
-      <a href="https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/">Clean Code</a>
-    </li>
-    <li>
-      <a href="https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd">JavaScript Unit Testing - The Practical Guide</a>
-    </li>
-  <ul>
+  <details>
+    <summary>Hackerrank</summary>
+    <ul>
+      <li>
+        <a href="https://www.hackerrank.com/certificates/3f5a3d52e607">SQL (Basic) Certificate</a>
+      </li>
+      <li>
+        <a href="https://www.hackerrank.com/certificates/c06bafa10847">JavaScript (Basic) Certificate</a>
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary>freeCodeCamp</summary>
+    <ul>
+      <li>
+        <a href="https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
+      </li>
+      <li>
+        <a href="https://www.freecodecamp.org/certification/GrzywN/responsive-web-design">Responsive Web Design</a>
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary>Udemy</summary>
+    <ul>
+      <li>
+        <a href="https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd">JavaScript Unit Testing - The Practical Guide</a>
+      </li>
+      <li>
+        <a href="https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/">Clean Code</a>
+      </li>
+    </ul>
+  </details>
 </details>
 
 <h3>Connect with me:</h3>
