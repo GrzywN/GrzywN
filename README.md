@@ -17,19 +17,8 @@
   - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
 <!--   - [Personal portfolio (legacy) - A personal CMS based website with a dark mode, i18n and blog.](https://github.com/GrzywN/personal-portfolio) -->
 
-| **HackerRank** | **freeCodeCamp** | **Udemy** |
-|----------------|------------------|-----------|
-| [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/3f5a3d52e607)|                  |           |
-| [JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/c06bafa10847)               |                  |           |
-|                |                  |           |
-
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
-  <table>
-    <tr>
-    <td>
-      <details>
-    <summary><b>Hackerrank</b></summary>
     <ul>
       <li>
         <a href="https://www.hackerrank.com/certificates/3f5a3d52e607">SQL (Basic) Certificate</a>
@@ -37,26 +26,12 @@
       <li>
         <a href="https://www.hackerrank.com/certificates/c06bafa10847">JavaScript (Basic) Certificate</a>
       </li>
-    </ul>
-  </details>
-    </td>
-    <td>
-      <details>
-    <summary><b>freeCodeCamp</b></summary>
-    <ul>
       <li>
         <a href="https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
       </li>
       <li>
         <a href="https://www.freecodecamp.org/certification/GrzywN/responsive-web-design">Responsive Web Design</a>
       </li>
-    </ul>
-  </details>
-    </td>
-    <td>
-      <details>
-    <summary><b>Udemy</b></summary>
-    <ul>
       <li>
         <a href="https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd">JavaScript Unit Testing - The Practical Guide</a>
       </li>
@@ -64,10 +39,6 @@
         <a href="https://www.udemy.com/certificate/UC-6c70d95d-7f13-49d9-90d3-95deeac422c7/">Clean Code</a>
       </li>
     </ul>
-  </details>
-    </td>
-    </tr>
-  </table>
 </details>
 
 <h3>Connect with me:</h3>
