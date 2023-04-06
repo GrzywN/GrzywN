@@ -20,7 +20,7 @@
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
   <details>
-    <summary>Hackerrank</summary>
+    <summary><b>Hackerrank</b></summary>
     <ul>
       <li>
         <a href="https://www.hackerrank.com/certificates/3f5a3d52e607">SQL (Basic) Certificate</a>
@@ -31,7 +31,7 @@
     </ul>
   </details>
   <details>
-    <summary>freeCodeCamp</summary>
+    <summary><b>freeCodeCamp</b></summary>
     <ul>
       <li>
         <a href="https://www.freecodecamp.org/certification/GrzywN/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
@@ -42,7 +42,7 @@
     </ul>
   </details>
   <details>
-    <summary>Udemy</summary>
+    <summary><b>Udemy</b></summary>
     <ul>
       <li>
         <a href="https://www.udemy.com/certificate/UC-31f917d9-73c4-47af-9e29-b2e20b6c49dd">JavaScript Unit Testing - The Practical Guide</a>
