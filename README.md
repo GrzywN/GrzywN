@@ -19,8 +19,8 @@
 
 | **HackerRank** | **freeCodeCamp** | **Udemy** |
 |----------------|------------------|-----------|
-| [https://www.hackerrank.com/certificates/3f5a3d52e607](SQL \(Basic\) Certificate)|                  |           |
-| [https://www.hackerrank.com/certificates/c06bafa10847](JavaScript \(Basic\) Certificate)               |                  |           |
+| [https://www.hackerrank.com/certificates/3f5a3d52e607](SQL Basic Certificate)|                  |           |
+| [https://www.hackerrank.com/certificates/c06bafa10847](JavaScript Basic Certificate)               |                  |           |
 |                |                  |           |
 
 <details>
