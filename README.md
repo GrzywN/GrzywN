@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **React Native, Qwik, DSA, Vim ✌️**
 
-😵‍💫 I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
+😵‍ I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
 
 📫 How to reach me **karolbinkowski3@proton.me**
 
