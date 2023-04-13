@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 
-🌱 I’m currently learning **React Native, Qwik, DSA, Vim ✌️**
+🌱 I’m currently learning **React Native, DSA, Vim ✌️**
 
 😵‍ I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
 
