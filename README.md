@@ -2,7 +2,7 @@
   Hello 👋 I&apos;m a Junior Front-end developer strongly <br />
   focused on <strong> React</strong> apps development.
 </h3>
-
+ 
 🔭 I’m currently working on:
 - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 - [Password generator app (without any libraries)](https://github.com/GrzywN/password-generator-app)
