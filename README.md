@@ -5,6 +5,7 @@
  
 🔭 I’m currently working on:
 - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
+- [banger.io - An app for discovering bangers on YouTube and other platforms](https://github.com/GrzywN/banger-io)
 
 🌱 I’m currently learning **Advanced JavaScript concepts, DSA, SQL and Vim ✌️**
 
