@@ -217,7 +217,6 @@
     />
   </a>
 
-
   <a href="https://www.linux.org/">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
