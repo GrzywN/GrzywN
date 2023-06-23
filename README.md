@@ -17,7 +17,7 @@
   - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
   - [BOR-KUR.pl - A website for the BOR-KUR chicken farm business.](https://github.com/GrzywN/bor-kur)
   - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
-<!--   - [Personal portfolio (legacy) - A personal CMS based website with a dark mode, i18n and blog.](https://github.com/GrzywN/personal-portfolio) -->
+<!--   - [Personal portfolio (legacy) - A personal CMS based website with a dark mode, i18n and blog.](https://github.com/GrzywN/personal-portfolio) --> 
  
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
