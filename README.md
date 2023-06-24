@@ -7,7 +7,7 @@
 - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
 - [banger.io - An app for discovering bangers on YouTube and other platforms](https://github.com/GrzywN/banger-io)
 
-🌱 I’m currently learning **Nest.js, Back-end development, Advanced JavaScript concepts ✌️**
+🌱 I’m currently learning **Nest.js, Back-end development, Advanced JavaScript concepts, Computer science ✌️**
 
 😵‍ I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
 
