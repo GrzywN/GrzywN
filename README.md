@@ -5,7 +5,8 @@
  
 🔭 I’m currently working on:
 - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
-- [banger.io - An app for discovering bangers on YouTube and other platforms](https://github.com/GrzywN/banger-io)
+- [Type and learn - An app for learning by typing. Words, jokes, whatever.](https://github.com/GrzywN/type-and-learn)
+- [banger.io - An app for discovering bangers on YouTube and other platforms.](https://github.com/GrzywN/banger-io)
 
 🌱 I’m currently learning **Nest.js, Back-end development, Advanced JavaScript concepts, Computer science ✌️**
 
