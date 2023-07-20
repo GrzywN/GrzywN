@@ -8,7 +8,7 @@
 - [Type and learn - An app for learning by typing. Words, jokes, whatever.](https://github.com/GrzywN/type-and-learn)
 - [banger.io - An app for discovering bangers on YouTube and other platforms.](https://github.com/GrzywN/banger-io)
 
-🌱 I’m currently learning **Nest.js, Back-end development, Advanced JavaScript concepts, Computer science ✌️**
+🌱 I’m currently learning **Nest.js, Back-end development, Computer science ✌️**
 
 😵‍ I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
 
