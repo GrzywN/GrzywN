@@ -1,7 +1,7 @@
 <h3>
   Hello 👋 I&apos;m a Junior Front-end developer strongly <br />
   focused on <strong> React</strong> apps development.
-</h3>
+</h3> 
   
 🔭 I’m currently working on:
 - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
