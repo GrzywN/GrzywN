@@ -21,6 +21,7 @@
 🌱 I’m learning **Flutter and Dart**
 
 🌐 My website [karolbinkowski.me](https://karolbinkowski.me)
+
 📫 Reach me here: **[karolbinkowski3@proton.me](mailto:karolbinkowski3@proton.me)**
 
 <details>
@@ -66,23 +67,15 @@
     />
   </a>
   
-<!--   <a href="https://instagram.com/karolbinkowski3">
+  <a href="https://instagram.com/karolbinkowski3">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="karolbinkowski3"
       height="30"
       width="40"
     />
-  </a> -->
+  </a>
   
-<!--   <a href="https://codepen.io/grzywn">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="https://codepen.io/grzywn"
-      height="30"
-      width="40"
-    />
-  </a> -->
   <a href="https://www.hackerrank.com/grzywn">
     <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -118,7 +111,7 @@
       height="40"
     />
   </a>
-  <!--
+
   <a href="https://getbootstrap.com">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -135,7 +128,7 @@
       height="40"
     />
   </a>
-  -->
+
   <a href="https://tailwindcss.com/">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -186,7 +179,7 @@
       height="40"
     />
   </a>
-  <!--
+
   <a href="https://webpack.js.org">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -203,7 +196,7 @@
       height="40"
     />
   </a>
-  -->
+
   <a href="https://www.figma.com/">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -230,16 +223,16 @@
     />
   </a>
 </p>
-<!--
+
 <img
     src="https://github-readme-stats.vercel.app/api?username=grzywn&show_icons=true&theme=tokyonight&locale=en"
     alt="grzywn"
 />
---> 
+ 
 
-<!--
+
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=grzywn&show_icons=true&theme=tokyonight&locale=en&layout=compact"
     alt="grzywn"
 />
--->
+
