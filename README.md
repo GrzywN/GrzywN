@@ -2,17 +2,6 @@
   Hello 👋 I&apos;m a Junior Front-end developer strongly <br />
   focused on <strong> React</strong> apps development.
 </h3> 
-  
-🔭 I’m currently working on:
-- [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
-- [Type and learn - An app for learning by typing. Words, jokes, whatever.](https://github.com/GrzywN/type-and-learn)
-- [banger.io - An app for discovering bangers on YouTube and other platforms.](https://github.com/GrzywN/banger-io)
-
-🌱 I’m currently learning **Flutter and Dart ✌️**
-
-😵‍ I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
-
-📫 How to reach me **karolbinkowski3@proton.me**
 
 **Featured projects**:
   - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
@@ -23,6 +12,17 @@
   - [Flutter Todo list (ONX Center)](https://github.com/GrzywN/todo-flutter)
   - [Displaying fetched data in a nested table with breadcrumb (Kongsberg)](https://github.com/GrzywN/kongsberg)
   - [Price calculator for telecom company (Ideo)](https://github.com/GrzywN/telecom)
+
+🔭 I’m currently working on:
+- [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
+- [Type and learn - An app for learning by typing. Words, jokes, whatever.](https://github.com/GrzywN/type-and-learn)
+- [banger.io - An app for discovering bangers on YouTube and other platforms.](https://github.com/GrzywN/banger-io)
+
+🌱 I’m currently learning **Flutter and Dart ✌️**
+<!--
+😵‍ I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
+-->
+📫 How to reach me **karolbinkowski3@proton.me**
 
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
