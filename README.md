@@ -18,13 +18,10 @@
 - [Type and learn - An app for learning by typing. Words, jokes, whatever.](https://github.com/GrzywN/type-and-learn)
 - [banger.io - An app for discovering bangers on YouTube and other platforms.](https://github.com/GrzywN/banger-io)
 
-🌱 I’m currently learning **Flutter and Dart ✌️**
-<!--
-😵‍ I'm currently **struggling with some of the problems from [leetcode](https://github.com/GrzywN/leetcode) and [HackerRank](https://github.com/GrzywN/hackerrank).**
--->
-📫 How to reach me **karolbinkowski3@proton.me**
+🌱 I’m learning **Flutter and Dart**
 
 🌐 My website [karolbinkowski.me](https://karolbinkowski.me)
+📫 Reach me here: **[karolbinkowski3@proton.me](mailto:karolbinkowski3@proton.me)**
 
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
