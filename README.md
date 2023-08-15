@@ -18,8 +18,12 @@
   - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
   - [BOR-KUR.pl - A website for the BOR-KUR chicken farm business.](https://github.com/GrzywN/bor-kur)
   - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
-<!--   - [Personal portfolio (legacy) - A personal CMS based website with a dark mode, i18n and blog.](https://github.com/GrzywN/personal-portfolio) --> 
-  
+
+**Recruitment tasks**:
+  - [Flutter Todo list (ONX Center)](https://github.com/GrzywN/todo-flutter)
+  - [Displaying fetched data in a nested table with breadcrumb (Kongsberg)](https://github.com/GrzywN/kongsberg)
+  - [Price calculator for telecom company (Ideo)](https://github.com/GrzywN/telecom)
+
 <details>
   <summary>🧾 <b>Certificates:</b></summary>
     <ul>
