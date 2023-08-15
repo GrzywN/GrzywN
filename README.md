@@ -10,7 +10,7 @@
 
 📝 Recruitment tasks:
   - [Flutter Todo list (ONX Center)](https://github.com/GrzywN/todo-flutter)
-  - [Displaying fetched data in a nested table with breadcrumb (Kongsberg)](https://github.com/GrzywN/kongsberg)
+  - [Displaying fetched data in a nested table with a breadcrumb (Kongsberg)](https://github.com/GrzywN/kongsberg)
   - [Price calculator for telecom company (Ideo)](https://github.com/GrzywN/telecom)
 
 🔭 I’m currently working on:
