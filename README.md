@@ -234,5 +234,6 @@
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=grzywn&show_icons=true&theme=tokyonight&locale=en"
     alt="grzywn"
+    float="right"
 />
 
