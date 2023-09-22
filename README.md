@@ -1,5 +1,5 @@
 <h3>
-  Hello 👋 
+  Hello 👋 <br />
   I&apos;m a programmer who <br />
   doesn't give a shit what technology he works in
 </h3> 
