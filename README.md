@@ -1,7 +1,6 @@
 <h3>
-  Hello 👋 <br />
-  I&apos;m a programmer who <br />
-  doesn't give a shit what technology he works in
+  Hello 👋 I&apos;m a programmer who doesn't give <br />
+  a shit what technology he works in
 </h3> 
 
 🌟 Featured projects:
