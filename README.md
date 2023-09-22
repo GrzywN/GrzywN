@@ -1,6 +1,6 @@
 <h3>
-  Hello 👋 I&apos;m a Junior Front-end developer strongly <br />
-  focused on <strong> React</strong> apps development.
+  Hello 👋 I&apos;m a programmer who <br />
+  doesn't give a shit what technology he works in
 </h3> 
 
 🌟 Featured projects:
