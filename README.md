@@ -7,6 +7,7 @@
   - [Karbin - A digital garden to put my articles and projects.](https://github.com/GrzywN/karbin)
   - [BOR-KUR.pl - A website for the BOR-KUR chicken farm business.](https://github.com/GrzywN/bor-kur)
   - [studiofryzurpasja.pl - A landing page for the Studio Fryzur "pasja" hairdresser.](https://github.com/GrzywN/pasja)
+  - [Blurhash Microservice - A microservice to fetch remote images and respond with a proper blurhash. Includes caching with Redis](https://github.com/GrzywN/blurhash-ms) 
 
 📝 Recruitment tasks:
   - [Flutter Todo list (ONX Center)](https://github.com/GrzywN/todo-flutter)
