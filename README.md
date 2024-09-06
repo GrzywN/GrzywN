@@ -3,7 +3,7 @@
 
 - 🔭 i’m currently working on [caloswift (counting calories has never been easier!)](https://caloswift.netlify.app/)
 
-- 🌱 i’m currently learning **go, gcp and flutter**
+- 🌱 i’m currently learning **aws, event-sourcing, advanced backend concepts**
 
 - 👨‍💻 all of my projects are available at [my portfolio](https://karolbinkowski.me/pl)
 
